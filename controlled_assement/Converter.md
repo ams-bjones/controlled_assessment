@@ -1,11 +1,12 @@
-#report
+#Report
 
-##task 1
+##Task 1
 
-in his programme i have made a curency 
+###Design
+In his programme I have made a curency 
 
 
-
+###Development
 
 ```python
 
@@ -34,3 +35,5 @@ var3 = float(input("Please type the amount of currency you wish to convert "))
 ammount = var3/rates[var1] *rates[var2]
 print(' your converted ammount is {0} {1}'.format(ammount,allowables[var2]))
 ```
+
+###Evaluation
